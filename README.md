@@ -3,7 +3,7 @@
 
 Explore the world of financial elegance and sophistication with our enchanting GitHub repository - the ATM Console based Application. Within its digital realms, you'll discover a meticulously crafted symphony of code that brings the magic of banking right to your command line.
 
-🔗 Repository Link: [ATM Console - Your Financial Wizard](https://github.com/sonwane1993/ATM-Service/blob/master/src/in/atm/system/ATM.java)
+🔗 Repository Link: [ATM Service - Console Based Application](https://github.com/sonwane1993/ATM-Service/blob/master/src/in/atm/system/ATM.java)
 
 📜 **Project Overview:**
 
