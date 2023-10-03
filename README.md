@@ -40,10 +40,4 @@ Dive into our repository and become the maestro of your financial destiny. Clone
 
 🔗 Repository Link: [ATM Console - Console Base Application](https://github.com/sonwane1993/ATM-Service/blob/master/src/in/atm/system/ATM.java)
 
-Join us on this exhilarating adventure through the intricacies of banking, where code and creativity unite in perfect harmony. Transform your coding skills into a masterpiece and let the ATM Console Application be your canvas.
-
-🌌 **Experience the Future of Finance. Code with Elegance.**
-
-[![GitHub Repository](https://github-link-button.s3.ap-southeast-2.amazonaws.com/YourUsername/ATM-Console-App)](https://github.com/YourUsername/ATM-Console-App)
-
-🔮 *Where Code Meets Magic* 🌟
+Disclaimer: CashWave Console is a project for educational purposes only and does not connect to real bank accounts or perform actual financial transactions.
